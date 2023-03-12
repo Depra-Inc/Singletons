@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singletons", "Singletons\Singletons.csproj", "{655F1D2E-F672-4E7B-B108-F0DE5BE84FB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BFC46294-51EB-4A8C-BA80-9CBBE0A31347}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{8D373647-EFC6-4185-9C6C-E35CBB355F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singletons.UnitTests", "Singletons.UnitTests\Singletons.UnitTests.csproj", "{209C3465-8923-4A3E-B663-2C6F5968FDB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{655F1D2E-F672-4E7B-B108-F0DE5BE84FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655F1D2E-F672-4E7B-B108-F0DE5BE84FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655F1D2E-F672-4E7B-B108-F0DE5BE84FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655F1D2E-F672-4E7B-B108-F0DE5BE84FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209C3465-8923-4A3E-B663-2C6F5968FDB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209C3465-8923-4A3E-B663-2C6F5968FDB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209C3465-8923-4A3E-B663-2C6F5968FDB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209C3465-8923-4A3E-B663-2C6F5968FDB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{655F1D2E-F672-4E7B-B108-F0DE5BE84FB4} = {BFC46294-51EB-4A8C-BA80-9CBBE0A31347}
+		{209C3465-8923-4A3E-B663-2C6F5968FDB8} = {8D373647-EFC6-4185-9C6C-E35CBB355F65}
+	EndGlobalSection
+EndGlobal
