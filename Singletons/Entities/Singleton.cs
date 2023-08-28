@@ -1,4 +1,7 @@
-﻿using System.Runtime.CompilerServices;
+﻿// Copyright © 2023 Nikolay Melnikov. All rights reserved.
+// SPDX-License-Identifier: Apache-2.0
+
+using System.Runtime.CompilerServices;
 using Depra.Singletons.Attributes;
 
 namespace Depra.Singletons.Entities

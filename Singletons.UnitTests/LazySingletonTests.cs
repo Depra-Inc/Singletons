@@ -1,4 +1,7 @@
-﻿using Depra.Singletons.Entities;
+﻿// Copyright © 2023 Nikolay Melnikov. All rights reserved.
+// SPDX-License-Identifier: Apache-2.0
+
+using Depra.Singletons.Entities;
 
 namespace Singletons.UnitTests;
 
